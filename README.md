@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [devjeff-portfolio.pages.dev](devjeff-portfolio.pages.dev)
-
 - 📫 How to reach me **jeffreylustica2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qK7TaAwbuvDIM46DAo4GRs80GQWxhnx5/view?usp=share_link](https://drive.google.com/file/d/1qK7TaAwbuvDIM46DAo4GRs80GQWxhnx5/view?usp=share_link)
