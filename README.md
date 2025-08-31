@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Lustica</h1>
-<h3 align="center">Frontend Developer & MERN Stack Enthusiast from the Philippines</h3>
+<h3 align="center">Frontend Developer building user-focused apps with a full-stack edge</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,9 +7,7 @@
 
 - 📫 Reach me at **jeffreylustica2@gmail.com**
 
-- 📄 View my resume [here](https://drive.google.com/your-updated-resume-link)  
-
-- ⚡ Currently building my own [Custom MERN CMS](https://github.com/jeffreylustica/portfolio-cms) to power my portfolio, deployed on **Render** with assets served via **Cloudinary**  
+- 📄 View my resume [here](https://res.cloudinary.com/deqjmbfer/image/upload/v1755704489/portfolio/x9pfprqty73slemedpqc.pdf)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
