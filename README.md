@@ -7,7 +7,7 @@
 
 - 📫 Reach me at **jeffreylustica2@gmail.com**
 
-- 📄 View my resume [here](https://res.cloudinary.com/deqjmbfer/image/upload/v1757354323/portfolio/erahybatb4cmxxjiwhlx.pdf)  
+- 📄 View my resume [here](https://res.cloudinary.com/deqjmbfer/image/upload/v1759253204/portfolio/w4am5qonpzonfdx8tcjh.pdf)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
